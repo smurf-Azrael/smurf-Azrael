@@ -82,7 +82,7 @@ Talking about Personal Stuffs:
 </div>
 
 <h1 align="center"></h1>
- <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> -->
+ <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smurf-Azrael&theme=github&count_private=true" /> -->
 <!-- <h1 align="center"></h1> -->
 </br>
 
