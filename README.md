@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&theme=onedark" alt="mjtechworks" /></a> </p>
 </p>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
