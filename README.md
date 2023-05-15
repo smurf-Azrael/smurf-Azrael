@@ -41,10 +41,6 @@
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
     </tr>
-    <tr>
-        <td><img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png?raw=true" title="Three.js" width="100" alt="Three.js"></td>
-        <td><img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
-    </tr>
 </table>
 
 Talking about Personal Stuffs:
@@ -72,13 +68,13 @@ Talking about Personal Stuffs:
 ### Magni's Most Used Langauges
 ![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
-<!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bcExpt1123&theme=react&line_height=40&hide=css) -->
+<!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smurf-Azreal&theme=react&line_height=40&hide=css) -->
 
 ### Magni's Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ### Magni's Contribution Graph
-![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=bcExpt1123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=smurf-Azreal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
