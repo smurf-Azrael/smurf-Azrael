@@ -52,8 +52,8 @@ Talking about Personal Stuffs:
 - <b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
 - <b>Mobile</b> : React-Native | Flutter | Ionic
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
 - <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
+-<b>AI</b> : RAG, LLM, ML, GPT, ChatBot
 - Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
 
 
