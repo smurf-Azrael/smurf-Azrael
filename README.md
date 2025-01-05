@@ -70,8 +70,8 @@ Talking about Personal Stuffs:
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ninjadev092&count_private=true" width="52%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ninjadev092&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smurf-Azrael&count_private=true" width="52%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smurf-Azrael&layout=compact" width="42%"/>
 </div>
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
